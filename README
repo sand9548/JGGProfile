@@ -1,18 +1,6 @@
-Welcome to your Appcelerator Titanium Mobile Project
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+Jessica,
+In plugging your code into Genymotion emulator I found that the font didn’t resize to the platform; however, it does run. So when it came to reading the content it was a bit small. The way that I was able to solve the resizing issue was not opening a default project, but opening a master file project. And then putting your app.js code in the Masterfile.js. 
+The content was good, and I enjoyed the way that you laid out your information in a table format. It was both concise and professional. I am not aware if you put pictures within your code, but after looking at your code I saw the code lines where your pictures were, so I trust that they would pop up. Overall keep up the good work!
+Best,
+Peer Reviewer 1
